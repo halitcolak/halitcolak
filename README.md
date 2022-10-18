@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/4rmut">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4rmut&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rmut&layout=compact&theme=blue-green">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=4rmut&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rmut&layout=compact&theme=blue-green">
 </a>
 </p>
 
