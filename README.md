@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi 👋, I am Halit.
 
-<!--
-**4rmut/4rmut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4rmut)](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/4rmut">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4rmut&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rmut&layout=compact&theme=blue-green">
+</a>
+</p>
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](#)
+
+---
+
+<h4 align="center">Thanks for Visiting!:innocent:</h4>
