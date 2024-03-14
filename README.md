@@ -1,14 +1,14 @@
 ## Hi 👋, I am Halit.
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4rmut)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=halitcolak)](#)
 
 ---
 
 <p align="center">
-<a href="https://github.com/halitcolak">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=halitcolak&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitcolak&layout=compact&theme=blue-green&langs_count=10">
-</a>
+	<a href="https://github.com/halitcolak">
+		<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=halitcolak&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true">
+		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitcolak&layout=compact&theme=blue-green&langs_count=10">
+	</a>
 </p>
 
 ---
